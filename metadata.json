@@ -1,0 +1,5 @@
+{
+  "name": "Pension Calculator: Auto-Enrolment vs Private",
+  "description": "An illustrative calculator to compare the projected outcomes of Ireland's upcoming Auto-Enrolment pension scheme against a traditional private pension plan. This tool helps visualize potential retirement pots based on various user inputs.",
+  "requestFramePermissions": []
+}
